@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CrudUniminuto</string>
+    <string name="tvTittle">REGISTRAR USUARIO</string>
+    <string name="etName">NAME</string>
+    <string name="etDocument">DOCUMENT</string>
+    <string name="etLastName">LASTNAME</string>
+    <string name="etUser">USER</string>
+    <string name="etPassword">PASSWORD</string>
+    <string name="btRegister">REGISTER</string>
+    <string name="btSearch">SEARCH</string>
+    <string name="btUpdate">UPDATE</string>
+    <string name="btList">LIST</string>
+</resources>
